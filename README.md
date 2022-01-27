@@ -1,4 +1,4 @@
-# 🐂 Autobot-beta 
+# Autobot [BETA] 🐂🌴
 ## // um bot de comandos simples para discord
 
 
