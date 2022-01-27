@@ -32,7 +32,7 @@ O repositório do projeto será open source e aberto no github.com, para portfó
 
 <p>A implementação, hospedagem ficam a opção do time de desenvolvimento, assim como ideias de design da página, com restrições e inspirações em alguns modelos e portfólios alheios do dribbble.com em uma pasta com modelos de design pré definidos nas referências do link:</p>
 
-<a href="https://dribbble.com/Thomas_rodrigues/collections/5448167-Autobot">Referências de Design >a>
+<a href="https://dribbble.com/Thomas_rodrigues/collections/5448167-Autobot" taget="_blank">Referências de Design >>
 
 
 
