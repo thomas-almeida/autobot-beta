@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/ThomAlmeidaRD/autobot-beta#readme",
   "dependencies": {
-    "discord.js": "^13.6.0"
+    "@discordjs/voice": "^0.8.0",
+    "discord.js": "^13.6.0",
+    "libsodium-wrappers": "^0.7.9"
   }
 }
